@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<应用程序 版本号="1.0.0" 显示样式="全部">
+	<布局管理>
+		<主界面 动画模式="1">
+			<button name="AnKangYiYang" top_x="411" top_y="218" width="100" height="100" pic="pic/安康医养.png"/>
+			<button name="AnKangLe" top_x="644" top_y="218" width="100" height="100" pic="pic/安康乐.png"/>
+			<button name="YinYong" top_x="1093" top_y="218" width="100" height="100" pic="pic/应用.png"/>
+			<button name="ZhengwuXinXi" top_x="1048" top_y="410" width="100" height="100" pic="pic/政务信息.png"/>
+			<button name="AnKangBianLi" top_x="852" top_y="410" width="100" height="100" pic="pic/安康便利.png"/>
+			<button name="AnKangYuJing" top_x="644" top_y="410" width="100" height="100" pic="pic/安康预警.png"/>
+			<button name="close" top_x="1334" top_y="30" width="100" height="100" pic="pic/关闭.png"/>
+			<button name="help" top_x="1277" top_y="30" width="100" height="100" pic="pic/帮助.png"/>
+			<button name="ShuZiDianYing_s" top_x="428" top_y="649" width="100" height="100" pic="pic/数字电影快捷.png"/>
+			<button name="RanQiYuJing_s" top_x="541" top_y="649" width="100" height="131" pic="pic/燃气预警快捷.png"/>
+			<button name="JianKangGuanLi_s" top_x="657" top_y="649" width="100" height="131" pic="pic/健康管理快捷.png"/>
+			<button name="AnKangHuLi_s" top_x="775" top_y="649" width="100" height="131" pic="pic/安康护理快捷.png"/>
+			<button name="AnKangTing_s" top_x="894" top_y="649" width="100" height="131" pic="pic/安康听快捷.png"/>
+			<button name="AnKangCai_s" top_x="1015" top_y="649" width="100" height="131" pic="pic/安康菜快捷.png"/>
+			<button name="ZhongYiYangSheng_s" top_x="1123" top_y="649" width="100" height="131" pic="pic/中医养生快捷.png"/>
+			<button name="JianKangZiXun_s" top_x="1240" top_y="649" width="100" height="131" pic="pic/健康咨询快捷.png"/>
+		</主界面>
+	</布局管理>
+</应用程序>
